@@ -14,9 +14,12 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 37a31f866b82bb8981fbca004ad14a605da1c18e
 <build>
     <plugins>
         <!-- START Of Plugins -->
