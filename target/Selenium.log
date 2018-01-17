@@ -60,3 +60,29 @@
 2018-01-16 22:26:30 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
 2018-01-16 22:26:32 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
 2018-01-16 22:26:33 [INFO ] [TestBase] - [after] 
+2018-01-17 19:40:09 [INFO ] [TestBase] - [getBrowserObject] Firefox
+2018-01-17 19:41:11 [INFO ] [TestBase] - [after] 
+2018-01-17 19:41:11 [INFO ] [TestBase] - [getBrowserObject] Firefox
+2018-01-17 19:41:30 [INFO ] [TestBase] - [before] Firefox
+2018-01-17 19:41:44 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-01-17 19:41:44 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-01-17 19:41:44 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-01-17 19:41:48 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-01-17 19:41:48 [INFO ] [TestBase] - [after] 
+2018-01-17 19:44:18 [INFO ] [TestBase] - [getBrowserObject] Firefox
+2018-01-17 19:44:45 [INFO ] [TestBase] - [before] Firefox
+2018-01-17 19:44:58 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-01-17 19:44:58 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-01-17 19:44:58 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-01-17 19:45:02 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-01-17 19:45:02 [INFO ] [JavaScriptHelper] - [executeScript] arguments[0].scrollIntoView()
+2018-01-17 19:45:02 [INFO ] [JavaScriptHelper] - [scrollIntoView] [[ChromeDriver: firefox on XP (7ec545e6-f360-4d00-a1f1-8d4c006bb529)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-01-17 19:45:09 [INFO ] [ProductCategory] - [click_on_orange_color_filter] we are selecting :Orange
+2018-01-17 19:45:09 [INFO ] [TestBase] - [after] 
+2018-01-17 19:45:09 [INFO ] [TestBase] - [getBrowserObject] Firefox
+2018-01-17 19:45:38 [INFO ] [TestBase] - [before] Firefox
+2018-01-17 19:45:48 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-01-17 19:45:48 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-01-17 19:45:48 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-01-17 19:45:55 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-01-17 19:45:55 [INFO ] [TestBase] - [after] 

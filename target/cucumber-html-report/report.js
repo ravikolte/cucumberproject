@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 16258324508,
+  "duration": 28659545584,
   "status": "passed"
 });
 formatter.scenario({
@@ -49,14 +49,14 @@ formatter.match({
   "location": "LoginToAutomationPractices.navigate_to_application()"
 });
 formatter.result({
-  "duration": 5919011939,
+  "duration": 9025417936,
   "status": "passed"
 });
 formatter.match({
   "location": "ProductCategory.user_click_on_women_navigation_menu()"
 });
 formatter.result({
-  "duration": 2979810405,
+  "duration": 7882418306,
   "status": "passed"
 });
 formatter.match({
@@ -69,11 +69,11 @@ formatter.match({
   "location": "ProductCategory.verify_total_number_of_women_products_dispalyed_as(String)"
 });
 formatter.result({
-  "duration": 20660076,
+  "duration": 21879494,
   "status": "passed"
 });
 formatter.after({
-  "duration": 781425,
+  "duration": 772444,
   "status": "passed"
 });
 });
