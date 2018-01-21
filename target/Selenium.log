@@ -1,4 +1,17 @@
-2018-01-21 11:17:41 [INFO ] [TestBase] - [getBrowserObject] Chrome
-2018-01-21 11:17:50 [INFO ] [TestBase] - [after] 
-2018-01-21 11:17:51 [INFO ] [TestBase] - [getBrowserObject] Chrome
-2018-01-21 11:18:19 [INFO ] [TestBase] - [after] 
+2018-01-21 11:23:39 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-01-21 11:23:44 [INFO ] [TestBase] - [before] Chrome
+2018-01-21 11:23:52 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-01-21 11:23:52 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-01-21 11:23:52 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-01-21 11:23:55 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-01-21 11:23:55 [INFO ] [JavaScriptHelper] - [executeScript] arguments[0].scrollIntoView()
+2018-01-21 11:23:55 [INFO ] [JavaScriptHelper] - [scrollIntoView] [[ChromeDriver: chrome on WIN8_1 (838e52407f8394b5075e6091bf9fdebb)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-01-21 11:24:03 [INFO ] [ProductCategory] - [click_on_orange_color_filter] we are selecting :Orange
+2018-01-21 11:24:03 [INFO ] [TestBase] - [after] 
+2018-01-21 11:24:03 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-01-21 11:24:06 [INFO ] [TestBase] - [before] Chrome
+2018-01-21 11:24:14 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-01-21 11:24:14 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-01-21 11:24:14 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-01-21 11:24:17 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-01-21 11:24:17 [INFO ] [TestBase] - [after] 
