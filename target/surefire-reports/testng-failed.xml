@@ -7,4 +7,22 @@
       <class name="com.cucumber.framework.runner.productCategory.TestTotalNumberOfWomenDressProductRunner"/>
     </classes>
   </test> <!-- Command line test -->
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.cucumber.framework.runner.productCategory.TestProductsCountBasedOnColorRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.cucumber.framework.runner.productCategory.TestProductsCountBasedOnColorRunner -->
+      <class name="com.cucumber.framework.runner.productCategory.TestTotalNumberOfWomenDressProductRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.cucumber.framework.runner.productCategory.TestTotalNumberOfWomenDressProductRunner -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->
